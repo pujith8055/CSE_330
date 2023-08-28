@@ -1,2 +1,2 @@
 # CSE_330
-#competitive coding
+Competitive Coding
